@@ -1,9 +1,9 @@
  Create an onboarding process using the attached mockup file.
 ===============================
 
-![preview](https://github.com/tomorrowdevs-projects/hotel-booking-landing-page/blob/main/preview.png "preview")
+![preview](https://github.com/tomorrowdevs-projects/user-onboarding/blob/main/preview.png "preview")
 
-## Download here the [Figma Mockup](https://github.com/tomorrowdevs-projects/hotel-booking-landing-page/blob/main/Hotel_Booking_Freebie.fig)
+## Download here the [Figma Mockup](https://github.com/tomorrowdevs-projects/user-onboarding/blob/main/User_onboarding.fig)
 
 Requirements:
 ----------------
