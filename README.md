@@ -1,4 +1,4 @@
-Create a Landing Page using the attached mockup file.
+ Create an onboarding process using the attached mockup file.
 ===============================
 
 ![preview](https://github.com/tomorrowdevs-projects/hotel-booking-landing-page/blob/main/preview.png "preview")
@@ -7,26 +7,28 @@ Create a Landing Page using the attached mockup file.
 
 Requirements:
 ----------------
-- Create the Landing Page for Desktop view
 - Respect exactly the provided layout
 - Deploy the project towards Netlify (www.netlify.com) connected to your GitHub Repo
-- The page should have an efficient SEO level
-- Write CSS following BEM Methodology
-- After the project is deployed, analyze it with https://web.dev
+- The form should be validated and should prompt success or error messages
+- Error messages should be provided on each field
 
-
-
-Knowledge Required for the Project:
+Level 1:
 ----------------
-- Basic HTML
-- CSS Flexbox
-- BEM Methodology
-- SVG integration
-- Rounded Images
-- External Fonts integration
-- Figma Usage
-- SEO rules and Metatags
+- Start the project using ReactJs
+- Implement all the components and layouts
+- Provide a validation for each field
+- Use state to store temporary values and show the steps
+- Write tests for each single validation
 
+Level 2:
+----------------
+- Use react-router to navigate between the steps
+- Find a strategy to save temporary values (eg. Context, Redux, LocalStorage)
+
+Level 3:
+----------------
+- Save results with Strapi (https://strapi.io)
+- Show a loader while calling the api and provide a feedback for success or error messages
 
 Before starting any of the tasks in this Learning Path, please READ the following rules
 ===============================
